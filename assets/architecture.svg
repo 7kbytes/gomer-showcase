@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 562" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="14">
+<rect width="960" height="562" fill="#fff"/>
+<defs><marker id="a" markerWidth="8" markerHeight="8" refX="7" refY="4" orient="auto"><path d="M0 0L8 4L0 8z" fill="#5b6470"/></marker></defs>
+<style>.b{fill:#fbf6ec;stroke:#a8792c;stroke-width:1.5}.g{fill:#f5f6f7;stroke:#8a929b;stroke-width:1.5}.t{fill:#1c1608;font-weight:600;text-anchor:middle}.s{fill:#5b6470;font-size:12px;text-anchor:middle}.h{fill:#a8792c;font-weight:700;font-size:13px}.l{stroke:#5b6470;stroke-width:1.5;fill:none;marker-end:url(#a)}.k{paint-order:stroke;stroke:#fff;stroke-width:8px;stroke-linejoin:round}</style>
+<text class="h" x="40" y="34">PEOPLE</text>
+<rect class="b" x="185" y="50" width="280" height="64" rx="10"/><text class="t" x="325" y="78">Prospective students</text><text class="s" x="325" y="98">Ghana and West Africa</text>
+<path class="l" d="M325 114V196"/>
+<rect class="b" x="495" y="50" width="280" height="64" rx="10"/><text class="t" x="635" y="78">Gomer advisors</text><text class="s" x="635" y="98">Admissions and visa team</text>
+<path class="l" d="M635 114V196"/>
+<text class="s k" x="480" y="148">Sign-in, uploads and real-time updates</text>
+<text class="h" x="40" y="190">PLATFORM</text>
+<rect class="b" x="60" y="200" width="840" height="132" rx="10"/><text class="t" x="480" y="226">Next.js static site on Firebase Hosting</text>
+<text class="s" x="165" y="262">Landing page</text>
+<text class="s" x="375" y="262">Eligibility estimator</text>
+<text class="s" x="585" y="262">Sign-up and profile wizard</text>
+<text class="s" x="795" y="262">Student dashboard</text>
+<text class="s" x="165" y="298">Document hub</text>
+<text class="s" x="375" y="298">Kanban pipeline</text>
+<text class="s" x="585" y="298">Credential auditor</text>
+<text class="s" x="795" y="298">Status emails</text>
+<path class="l" d="M140 332V398"/>
+<rect class="g" x="60" y="402" width="160" height="90" rx="10"/><text class="t" x="140" y="440">Identity</text><text class="s" x="140" y="462">Firebase Auth</text>
+<path class="l" d="M310 332V398"/>
+<rect class="g" x="230" y="402" width="160" height="90" rx="10"/><text class="t" x="310" y="440">Applications</text><text class="s" x="310" y="462">Cloud Firestore</text>
+<path class="l" d="M480 332V398"/>
+<rect class="g" x="400" y="402" width="160" height="90" rx="10"/><text class="t" x="480" y="440">Document scans</text><text class="s" x="480" y="462">Cloud Storage</text>
+<path class="l" d="M650 332V398"/>
+<rect class="g" x="570" y="402" width="160" height="90" rx="10"/><text class="t" x="650" y="440">Access control</text><text class="s" x="650" y="462">Security rules</text>
+<path class="l" d="M820 332V398"/>
+<rect class="g" x="740" y="402" width="160" height="90" rx="10"/><text class="t" x="820" y="440">Notifications</text><text class="s" x="820" y="462">Firestore mail queue</text>
+<text class="h k" x="40" y="388">DATA AND SERVICES</text>
+<text class="s" x="480" y="532">Security rules let students see only their own files. Only advisors can approve documents or move a stage.</text>
+</svg>
